@@ -1,0 +1,7 @@
+nome do jogo:tramino
+
+irei fazer um jogo onde basicamente você empilhar tetramino que descem a tela de forma 
+que completem linhas horizontais. Quando uma linha se forma, ela se desintegra, as camadas 
+superiores desce Quando a pilha de peças chega ao topo da tela, a partida se encerra.
+
+como fazer:https://youtu.be/LbE6EXPJdbE?si=vM_GnVWbxoMSPGgi
